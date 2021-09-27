@@ -12,8 +12,11 @@
 ### 
 
 ## 회원가입시 오류창
-![4](https://user-images.githubusercontent.com/85011564/134850800-e4aa7aa2-fba2-4eb7-b2c7-c3c06e5a0422.png)
-![5](https://user-images.githubusercontent.com/85011564/134850804-01b4955a-e456-425f-9789-5bcf5a46975f.png)
-![6](https://user-images.githubusercontent.com/85011564/134850806-aa4d988c-5b64-4967-bcd8-0ed1f76bdc6f.png)
-![7](https://user-images.githubusercontent.com/85011564/134850808-4fbf88c5-5570-4f07-998c-925ea2f432fd.png)
+![4](https://user-images.githubusercontent.com/85011564/134856520-f26b7543-82c6-4c94-98f5-cfd5ce7a0341.png)
+### 
+![5](https://user-images.githubusercontent.com/85011564/134856526-a5e3eb48-45ed-432a-892d-a7ce9fa130ab.png)
+### 
+![6](https://user-images.githubusercontent.com/85011564/134856531-22222139-637c-486d-845f-54491f8bc86b.png)
+### 
+![7](https://user-images.githubusercontent.com/85011564/134856534-5bc914d9-6505-42b3-ae88-83200571e1b2.png)
 ### 
